@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Testing testing this out
 date: 2018-09-20T18:34:57.046Z
 categories: unsure
