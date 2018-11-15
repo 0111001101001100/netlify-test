@@ -7,6 +7,13 @@ galleryImages:
   - /images/uploads/il_570xn.1013121978_9zm1.jpg
   - /images/uploads/il_570xn.1013121978_9zm1.jpg
   - /images/uploads/il_570xn.1013121978_9zm1.jpg
+footnotes:
+  - footnote:
+      note: jellyfish are actually very very cool if you think about it
+      ref: '#one'
+  - footnote:
+      note: Keep trying and see what happens.
+      ref: '#two'
 ---
 Will this work and will it load. I have **no earthly idea** at the moment.
 
